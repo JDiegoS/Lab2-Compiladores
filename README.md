@@ -1,5 +1,7 @@
 # Laboratorio 2 - Compiladores
 
+Video: https://youtu.be/Ir7X4hmgjfs
+
 Para correr el programa ejecutar en cmd (si los archivos ya estan generados, solo seguir paso 4):
 1. antlr Parser.g4
 2. javac *.java
